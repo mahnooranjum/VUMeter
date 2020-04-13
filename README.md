@@ -11,3 +11,9 @@ Download the repository and use the following to run:
 | LivePlot.py  | Live plotter implementation | 
 | VUMeter_graph.py  | Graphing volume units | 
 | VUMeter_text.py  | Using text to show volume  | 
+## Live Plotter
+![Live plotter](Live.PNG)
+## Hash Graph
+![Hash plotter](Graph.PNG)
+## Text
+![Text plotter](text.PNG)
